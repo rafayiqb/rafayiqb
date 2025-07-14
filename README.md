@@ -2,7 +2,7 @@
 <h3 align="center">💻 MERN Stack Developer | 6th Semester IT Student | Quaid-e-Azam University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code.%20Create.%20Repeat.%20Evolve.;Building%20cool%20things%20with%20tech!;Always%20curious%20🚀&center=true&width=440&height=45&font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&size=22" />
+ 
 </p>
 
 ---
