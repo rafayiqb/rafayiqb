@@ -13,7 +13,7 @@
 - 🎓 Studying Information Technology at **Quaid-e-Azam University**, 6th Semester  
 - 🌱 Learning **React**, **MongoDB**, **Express.js**, and real-world project deployment  
 - 👨‍💻 View my projects on GitHub: [rafayiqb](https://github.com/rafayiqb)  
-- 🧾 Portfolio: [rafayportfolio.vercel.app](https://rafayportfolio.vercel.app)  
+- 🧾 Portfolio: [https://rafayportfolio-two.vercel.app/](https://rafayportfolio-two.vercel.app/)  
 - 📫 Contact: **rafayiqb@gmail.com**
 
 ---
